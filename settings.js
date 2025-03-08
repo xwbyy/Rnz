@@ -2,7 +2,7 @@
 
 const settings = {
     profile: {
-        name: "Vynaa Valerie",
+        name: "RNZ",
         bio: "Imagine, Create, Achieve.",
         picture: "https://files.catbox.moe/msracd.jpg",
         tags: ["Ngoding", "Copas", "Game", "Music"],
